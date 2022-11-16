@@ -1,1 +1,23 @@
-/* styles go here */
+.firstFieldset {
+  margin: 0 2px;
+}
+
+.fieldset {
+  margin: 20px 2px;
+}
+
+.firstFieldOfBox {
+  margin: 0 0 10px;
+}
+
+.field {
+  margin: 10px 0;
+}
+
+.lastFieldOfBox {
+  margin: 10px 0 0;
+}
+
+.submitButton {
+  margin: 0;
+}
