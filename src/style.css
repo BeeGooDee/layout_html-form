@@ -1,23 +1,23 @@
-.firstFieldset {
+.fieldset {
+  margin: 20px 2px 0;
+}
+
+.fieldset:first-child {
   margin: 0 2px;
 }
 
-.fieldset {
-  margin: 20px 2px;
-}
-
-.firstFieldOfBox {
+.field {
   margin: 0 0 10px;
 }
 
-.field {
-  margin: 10px 0;
+.field:first-child {
+  margin: 0 0 10px;
 }
 
-.lastFieldOfBox {
-  margin: 10px 0 0;
+.field:last-child {
+  margin: 0;
 }
 
 .submitButton {
-  margin: 0;
+  margin: 20px 0 0;
 }
